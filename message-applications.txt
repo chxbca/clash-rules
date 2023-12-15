@@ -4,4 +4,3 @@ payload:
   - PROCESS-NAME,QQ ScreenCapture plugin
   - PROCESS-NAME,WeChat
   - PROCESS-NAME,WeChatAppEx Helper
-  - PROCESS-NAME,Postman Helper
