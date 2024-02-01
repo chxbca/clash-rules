@@ -1,5 +1,6 @@
 payload:
   - PROCESS-NAME,QQ
+  - PROCESS-NAME,QQ.exe
   - PROCESS-NAME,QQ Helper
   - PROCESS-NAME,QQ ScreenCapture plugin
   - PROCESS-NAME,WeChat
