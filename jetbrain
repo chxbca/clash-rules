@@ -1,0 +1,3 @@
+payload:
+- '*.jetbrains.*'
+- 'api.jetbrains.ai'
